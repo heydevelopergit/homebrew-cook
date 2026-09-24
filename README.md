@@ -2,6 +2,6 @@
 and nothing here!
 
 
-this Brew tap dev is stoped
+# this Brew tap dev is stoped
 But! Cook projecct not stoped! And install instruction here:
-https://github.com/heydevelopergit/Cook/blob/main/README.md
+# https://github.com/heydevelopergit/Cook/blob/main/README.md
