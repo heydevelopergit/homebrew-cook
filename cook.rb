@@ -6,6 +6,8 @@ class Cook < Formula
   license "MIT"
   version "1.0.0"
 
+deprecate! date: "2026-09-25", because: "Cook on Homebrew is ceased. See https://github.com/heydevelopergit/Cook."
+
   depends_on "python@3.14"
 
   def install
@@ -17,4 +19,4 @@ class Cook < Formula
   end
 end
 
-# 2.0
+# 3.0
