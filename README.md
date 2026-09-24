@@ -5,3 +5,6 @@ and nothing here!
 # this Brew tap dev is ceased
 But! Cook project not ceased! And install instruction here:
 # https://github.com/heydevelopergit/Cook/blob/main/README.md
+
+# Install Cook from Homebrew
+brew tap heydevelopergit/cook && brew trust --formula heydevelopergit/cook/cook && brew install cook
