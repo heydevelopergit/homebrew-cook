@@ -6,7 +6,7 @@ class Cook < Formula
   license "MIT"
   version "1.0.0"
 
-  depends_on "python@3.12"
+  depends_on "python@3.14"
 
   def install
     bin.install "cook.py" => "cook"
@@ -17,4 +17,4 @@ class Cook < Formula
   end
 end
 
-# 1.0
+# 2.0
